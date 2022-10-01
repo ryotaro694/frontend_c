@@ -11,15 +11,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+下記の　「Local:   http://localhost:8080/ 」にアクセスする
 
-### Lints and fixes files
-```
-npm run lint
-```
+<img width="403" alt="スクリーンショット 2022-10-01 18 12 58" src="https://user-images.githubusercontent.com/68958226/193402260-f26d364c-6dab-48b1-9d21-dcf2c793382a.png">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
